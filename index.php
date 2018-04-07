@@ -16,7 +16,10 @@
                 <div class="col-sm-4">
                     <h1>ERP 0.1</h1>
                 </div>
-                <div class="col-sm-8">
+                <div class="col-sm-4">
+                    <button type="submit" class="btn btn-success">Ajouter</button>
+                </div>
+                <div class="col-sm-4">
                     <form class="form-inline">
                         <div class="form-group">
                             <input type="text" class="form-control" id="search" placeholder="Search">
